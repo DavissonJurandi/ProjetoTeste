@@ -1,0 +1,1 @@
+# Esse é o Readme do me projeto de exemplo feito para estudos de git github.
