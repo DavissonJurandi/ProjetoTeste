@@ -1,2 +1,3 @@
 Este repositorio sera usado para realizar estudos do Git e GitHub por Davisson Jurandi.
 Este linha foi alterada no branch teste.
+Incluindo a terceira linha no usando o branch teste.
