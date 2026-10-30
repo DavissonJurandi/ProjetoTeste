@@ -1,1 +1,1 @@
-# Esse é o Readme do me projeto de exemplo feito para estudos de git github.
+# Esse é o Readme do meu projeto de exemplo feito para estudos de git e github.
